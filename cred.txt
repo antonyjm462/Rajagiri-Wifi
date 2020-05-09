@@ -1,0 +1,3 @@
+//add your uid
+//add wifi name
+//add wifi password
